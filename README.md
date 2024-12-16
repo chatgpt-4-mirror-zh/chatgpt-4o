@@ -1,6 +1,6 @@
 # 【ChatGPT中文版】国内使用指南（支持GPT-4，无限使用GPT-4o和o1，无需翻墙）
 
-> **更新时间：2024-12-13**  
+> **更新时间：2024-12-16**  
 > **作者：chatgpt-mirror-zh**
 
 **国内直接能用的 ChatGPT中文版！不用翻墙，支持ChatGPT-4，无限使用GPT-4o和o1-preview** <br />
